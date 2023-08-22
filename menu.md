@@ -1,12 +1,22 @@
 ## Menu
 
-[French](#French-food) |
+[French](#French-food) |[Korean Food Menu](#Korean-Food)
 
 ## French food
-| Menu Name         | Menu Description                                                   | Price(฿) |
+| Menu Name         | Menu Description                                                   | Price(Baht)|
 |:------------------|:-------------------------------------------------------------------|---------:|
 | Coq au Vin        | A classic French dish made with chicken braised in red wine        |      250 |
 | Ratatouille       | A vegetable medley stew made with tomatoes, eggplant, and zucchini |      180 |
 | Escargot          | Snails cooked in garlic butter, a delicacy in French cuisine       |      320 |
 | Quiche Lorraine   | Savory pastry filled with eggs, cream, bacon, and cheese           |      200 |
 | Bouillabaisse     | A Provençal fish stew made with various types of fish and seafood  |      300 |
+
+## Korean-Food
+
+| Menu Name     |                                           Menu Description                                           | Price(Baht) |
+|:--------------|:----------------------------------------------------------------------------------------------------:|------------:|
+| Bulgogi       |                       Marinated beef grilled, served with rice and vegetables                        |         250 |
+| Kimchi Jjigae |                     A spicy and flavorful stew made with kimchi, tofu, and pork                      |         300 |
+| Bibimbap      | A rice bowl topped with various vegetables, meat, and a fried egg, served with spicy gochujang sauce |         150 |
+| Japchae       |         Stir-fried glass noodles with an assortment of vegetables and your choice of protein         |         150 |
+| Samgyeopsal   |       Slices of pork belly cooked at your table, served with lettuce wraps and dipping sauces        |         300 |
