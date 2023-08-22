@@ -4,6 +4,6 @@ The KU International Cafe at Kasetsart University offers a diverse cuisine, show
 
 ## [Menu](menu.md)
 
-| Cuisine                                  | Contributor |
-|:-----------------------------------------|-------------|
-| [French](#French-food)                   | Phiranat    |
+| Cuisine                       | Contributor |
+|:------------------------------|-------------|
+| [French](menu.md#French-food) | Phiranat    |
