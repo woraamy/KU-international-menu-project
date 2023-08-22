@@ -1,6 +1,6 @@
 ## Menu
 
-[Japanese Food](#japanese-food) |[Italian Food](#italian-food) | [Chinese Food](#chinese-food) | [French Food](#French-food) | [Korean Food](#Korean-Food)
+[Japanese Food](#japanese-food) | [Italian Food](#italian-food) | [Chinese Food](#chinese-food) | [French Food](#French-food) | [Korean Food](#Korean-Food)
 
 ## Japanese Food
 
