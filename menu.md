@@ -1,6 +1,6 @@
 ## Menu
 
-[Italian food menu](#italian) | ...
+[Italian Food](#italian-food) | ...
 
 ## Italian Food
 | Menu Name      |                                 Menu Description                                  | Price (Bath) |
