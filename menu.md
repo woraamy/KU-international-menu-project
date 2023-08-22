@@ -1,8 +1,8 @@
 ## Menu
 
-[Chinese Food](#Chinese-food) | ...
+[Chinese Food](#chinese-food) | ...
 
-## Japanese Food
+## Chinese Food
 | Menu Name                                         |                                   Menu Description                                   | Price |
 |:--------------------------------------------------|:------------------------------------------------------------------------------------:|------:|
 | **Peking duck**                                   | Dish from Beijing roasted Duck  eat with spring onion, cucumber and sweet bean sauce |   890 |
