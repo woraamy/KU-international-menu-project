@@ -6,7 +6,7 @@ The KU International Cafe at Kasetsart University offers a diverse cuisine, show
 ## [Menu](menu.md)
 | Cuisine                           | Contributor                                         |
 |:----------------------------------|-----------------------------------------------------|
-| [French](menu.md#French-food)           | Phiranat    |
+| [French menu](menu.md#French-food) | Phiranat    |
 | [Chinese menu](menu.md#chinese-food)      | Napasorn    | 
 | [Italian food menu](menu.md#italian-food) | Thorung |
 | [Japanese](menu.md#japanese-food)         | Kantaphat |
