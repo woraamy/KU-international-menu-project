@@ -4,6 +4,6 @@ The KU International Cafe at Kasetsart University offers a diverse cuisine, show
 
 ## [Menu](menu.md)
 
-| Cuisine                          | Contributor |
-|:---------------------------------|------------|
-| [Korean Food Menu](#Korean-Food) | Worawalan  |
+| Cuisine                                 | Contributor |
+|:----------------------------------------|------------|
+| [Korean Food Menu](menu.md#Korean-Food) | Worawalan  |
