@@ -1,6 +1,16 @@
 ## Menu
 
-[French](#French-food) |[Korean Food Menu](#Korean-Food)
+[Chinese Food](#chinese-food) | [French](#French-food) |[Korean Food Menu](#Korean-Food)
+
+## Chinese Food
+| Menu Name               |                                   Menu Description                                   | Price |
+|:------------------------|:------------------------------------------------------------------------------------:|------:|
+| **Peking duck**         | Dish from Beijing roasted Duck  eat with spring onion, cucumber and sweet bean sauce |   890 |
+| **Sweet and Sour Pork** |                         Pork fired with sweet and sour sauce                         |   150 |
+| **Ma Po Tofu**          |                    Spicy tofu and minced pork in Szechuan sauce.                     |   120 |
+| **Dan Dan Noodles**     |          Noodles served in a flavorful broth with minced pork and chili oil          |   110 |
+| **Szechuan Beef**       |     Tender beef slices stir-fried with bell peppers and onions in a bold sauce       |   180 |
+=======
 
 ## French food
 | Menu Name         | Menu Description                                                   | Price(Baht)|
@@ -20,3 +30,4 @@
 | Bibimbap      | A rice bowl topped with various vegetables, meat, and a fried egg, served with spicy gochujang sauce |         150 |
 | Japchae       |         Stir-fried glass noodles with an assortment of vegetables and your choice of protein         |         150 |
 | Samgyeopsal   |       Slices of pork belly cooked at your table, served with lettuce wraps and dipping sauces        |         300 |
+
