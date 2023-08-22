@@ -1,6 +1,6 @@
 ## Menu
 
-[Korean Food Menu](#Korean-Food) | ...
+[Korean Food Menu](#Korean-Food)
 
 ## Korean-Food
 
